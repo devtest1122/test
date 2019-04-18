@@ -1,0 +1,6 @@
+1. User code unique, from setting, very CRO wise
+2. Project Code unique, from setting, very CRO wise
+3. BMI from height, weaight, formula base
+4. Domain
+5. Variable
+6. Template
